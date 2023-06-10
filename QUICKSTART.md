@@ -15,6 +15,13 @@ In order to run FarmVibes.AI cluster, you need the following:
 16 GB of memory (32 GB, recommended), 4 CPU cores, and 512 GB of storage
 (2 TB, recommended).
 
+## Install the Prerequisites 
+
+1. SSH into the Linux machine
+2. Install Git if it's not already installed. Type git and press enter to see if it's installed. If not run `sudo apt install git`.
+3. From your home directory run `git clone https://github.com/microsoft/farmvibes-ai`
+
+
 * The following software needs to be installed in the machine:
 
   * [Git](https://www.atlassian.com/git/tutorials/install-git#linux) to download
